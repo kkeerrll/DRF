@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af6eb85-ef22-4f97-925a-74dee36346ab" name="Changes" comment="Revert &quot;Initial commit1&quot;&#10;&#10;This reverts commit 647f8ceee274d10784558e98b942d4571d97593e." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kkeerrll&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d96e95a8-e9d7-4867-8652-f48459984e28" />
+        <option name="url" value="https://github.com/kkeerrll/DRF.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YCvSomWJaYV3bTRGqrCWvGrdJ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anzelikagudkova/Desktop/DRF&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af6eb85-ef22-4f97-925a-74dee36346ab" name="Changes" comment="" />
+      <created>1700042380825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700042380825</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1700044289391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044289392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1700044308717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044308718</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1700474237625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700474237625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1700474470009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700474470009</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit1">
+      <option name="closed" value="true" />
+      <created>1700474597842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700474597843</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit1">
+      <option name="closed" value="true" />
+      <created>1701256514105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701256514105</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit1">
+      <option name="closed" value="true" />
+      <created>1701256647336</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701256647336</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit3">
+      <option name="closed" value="true" />
+      <created>1701256678371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701256678371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;Initial commit1&quot;&#10;&#10;This reverts commit 647f8ceee274d10784558e98b942d4571d97593e.">
+      <option name="closed" value="true" />
+      <created>1701256739294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701256739294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;Initial commit1&quot;&#10;&#10;This reverts commit 647f8ceee274d10784558e98b942d4571d97593e.">
+      <option name="closed" value="true" />
+      <created>1701256805688</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701256805688</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HW">
+      <option name="closed" value="true" />
+      <created>1701257053212</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701257053212</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Revert &quot;Initial commit1&quot;&#10;&#10;This reverts commit 647f8ceee274d10784558e98b942d4571d97593e.">
+      <option name="closed" value="true" />
+      <created>1701257164674</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701257164674</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial commit1" />
+    <MESSAGE value="Initial commit3" />
+    <MESSAGE value="HW" />
+    <MESSAGE value="Revert &quot;Initial commit1&quot;&#10;&#10;This reverts commit 647f8ceee274d10784558e98b942d4571d97593e." />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Initial commit1&quot;&#10;&#10;This reverts commit 647f8ceee274d10784558e98b942d4571d97593e." />
+  </component>
+</project>
