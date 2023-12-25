@@ -1,0 +1,49 @@
+version: '3'
+services:
+  db:
+    image: postgres:15
+    container_name: spa_db
+    env_file:
+      - .env-non-dev
+    ports:
+      - 5432:5432
+
+  redis:
+    image: redis:7
+    container_name: spa_cache
+
+  spa:
+    build:
+      context: payment
+      dockerfile: payment/Dockerfile
+    container_name: spa_app
+    env_file:
+      - .env-non-dev
+    depends_on:
+      - db
+      - redis
+    command:
+      - "docker/app.sh"
+    ports:
+      - 7777:8000
+
+  celery:
+    build:
+      context: payment
+    container_name: spa_celery
+    env_file:
+      - .env-non-dev
+    command:
+      - "docker/celery.sh"
+    depends_on:
+      - spa
+
+  celery-beat:
+    build:
+      context: payment
+    container_name: spa_celery_beat
+    env_file:
+      - .env-non-dev
+    command:
+       - "docker/celery_beat.sh"
+    depends_on:
