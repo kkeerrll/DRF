@@ -47,3 +47,4 @@ services:
     command:
        - "docker/celery_beat.sh"
     depends_on:
+      - spa

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8af6eb85-ef22-4f97-925a-74dee36346ab" name="Changes" comment="пагинация+тесты">
-      <change beforePath="$PROJECT_DIR$/.idea/DRF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DRF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8af6eb85-ef22-4f97-925a-74dee36346ab" name="Changes" comment="27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +45,11 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/anzelikagudkova/Desktop/DRF&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.pytest for tests.LessonTestCase.test_create_lesson">
     <configuration name="pytest for tests.LessonTestCase" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="DRF" />
@@ -251,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701423143058</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="27">
+      <option name="closed" value="true" />
+      <created>1703488054545</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703488054545</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +283,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="test" />
     <MESSAGE value="пагинация+тесты" />
-    <option name="LAST_COMMIT_MESSAGE" value="пагинация+тесты" />
+    <MESSAGE value="27" />
+    <option name="LAST_COMMIT_MESSAGE" value="27" />
   </component>
 </project>
